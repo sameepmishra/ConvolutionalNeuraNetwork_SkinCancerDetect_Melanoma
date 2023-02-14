@@ -1,1 +1,0 @@
-# ConvolutionalNeuraNetwork_SkinCancerDetect_Melanoma
